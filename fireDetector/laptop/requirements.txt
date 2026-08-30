@@ -1,0 +1,10 @@
+# Install PyTorch first using the command recommended for your operating
+# system, Python version, and GPU/CUDA setup:
+# https://pytorch.org/get-started/locally/
+#
+# Then install these application dependencies:
+#   python -m pip install -r requirements.txt
+
+ultralytics>=8.0,<9
+opencv-python>=4.8,<5
+numpy>=1.24,<3
